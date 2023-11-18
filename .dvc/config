@@ -1,5 +1,6 @@
 [core]
     remote = aws_remote
+    autostage = true
 ['remote "localbackup"']
     url = C:\Users\Shridhar\Desktop\MLOps\backup
 ['remote "localbackup_v1"']
