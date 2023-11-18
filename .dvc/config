@@ -1,0 +1,6 @@
+[core]
+    remote = localbackup_v1
+['remote "localbackup"']
+    url = C:\Users\Shridhar\Desktop\MLOps\backup
+['remote "localbackup_v1"']
+    url = C:\Users\Shridhar\Desktop\data_backup
