@@ -1,6 +1,8 @@
 [core]
-    remote = localbackup_v1
+    remote = aws_remote
 ['remote "localbackup"']
     url = C:\Users\Shridhar\Desktop\MLOps\backup
 ['remote "localbackup_v1"']
     url = C:\Users\Shridhar\Desktop\data_backup
+['remote "aws_remote"']
+    url = s3://dvc-data-mlops/nba_data_backup
